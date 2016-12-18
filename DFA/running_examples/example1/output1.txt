@@ -1,0 +1,12 @@
+[NFA] yes
+[DFA] yes
+[NFA] no
+[DFA] no
+[NFA] yes
+[DFA] yes
+[NFA] no
+[DFA] no
+[NFA] yes
+[DFA] yes
+[NFA] no
+[DFA] no
