@@ -1,0 +1,11 @@
+S:AT
+S:TB
+T:CE
+T:1
+A:AC
+A:0
+B:BD
+B:1
+C:0
+D:1
+E:TD
